@@ -1,4 +1,4 @@
-# Science Theory Calculator Vesion Explain
+# Penjelasan Versi Science Theory Calculator
 
 1. Science Theory Calculator:
 
