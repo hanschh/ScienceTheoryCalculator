@@ -4,7 +4,7 @@ Science Theory Calculator adalah aplikasi kalkulator yang menghitung menggunakan
 
 Dengan menggunakan Science Theory Calculator, Pengguna tidak diharuskan lagi untuk melihat rumus teori dan menghitung menggunakan kalkulator biasa.
 
-Science Theory Calculator juga mudah dipelajari dan digunakan.
+Science Theory Calculator juga mudah dipelajari dan digunakan serta mudah diakses.
 
 # Anggota Kelompok 2 kelas A:
 
