@@ -2,12 +2,12 @@
 
 1. Science Theory Calculator:
 
-50% of the project
+50% dari project
 
 2. Science Theory Calculator_1.1:
 
-Adding Navigation
+Menambah Navigasi
 
 3. Science Theory Calculator_1.2:
 
-Adding extra error blockers
+Menambah beberapa Error Blockers
