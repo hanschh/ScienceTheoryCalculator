@@ -10,4 +10,4 @@ Adding Navigation
 
 3. Science Theory Calculator_1.2:
 
-Adding extra error blocker
+Adding extra error blockers
