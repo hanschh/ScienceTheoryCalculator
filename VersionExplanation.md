@@ -1,4 +1,4 @@
-# ScienceTheoryCalculator
+# Science Theory Calculator Vesion Explain
 
 1. Science Theory Calculator:
 
