@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cari1"
+            android:icon="@drawable/yes"
+            android:title="Perpindahan Kalor" />
+        <item
+            android:id="@+id/nav_cari2"
+            android:icon="@drawable/yes"
+            android:title="Gerak vertikal ke bawah" />
+        <item
+            android:id="@+id/nav_cari3"
+            android:icon="@drawable/yes"
+            android:title="Tekanan" />
+        <item
+            android:id="@+id/nav_cari4"
+            android:icon="@drawable/yes"
+            android:title="Upcoming Update" />
+        <item
+            android:id="@+id/nav_cari5"
+            android:icon="@drawable/yes"
+            android:title="Upcoming Update" />
+        <item
+            android:id="@+id/nav_cari6"
+            android:icon="@drawable/yes"
+            android:title="About" />
+
+    </group>
+
+</menu>

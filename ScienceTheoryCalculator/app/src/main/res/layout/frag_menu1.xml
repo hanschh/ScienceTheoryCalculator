@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+<EditText
+    android:id="@+id/massa"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:hint="Massa (kg)"
+    android:inputType="numberDecimal" />
+<TextView
+android:layout_width="131dp"
+android:layout_height="wrap_content"
+android:layout_row="0"
+android:layout_column="2"
+android:text="Wujud : \n
+1. Es \n
+2. Air \n
+3. Uap Air\n" />
+
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Wujud Awal : " />
+
+
+<EditText
+android:id="@+id/wawal"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+
+android:inputType="numberDecimal" />
+
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Wujud Akhir : " />
+
+<EditText
+android:id="@+id/wakhir"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+
+android:inputType="numberDecimal" />
+
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Suhu : " />
+<EditText
+android:id="@+id/suhuawal"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_alignParentStart="true"
+android:ems="10"
+android:hint="Suhu Awal (°C)"
+android:inputType="numberDecimal" />
+
+<EditText
+android:id="@+id/suhuakhir"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_alignParentStart="true"
+android:ems="10"
+android:hint="Suhu Akhir (°C)"
+android:inputType="numberDecimal" />
+
+<Button
+android:id="@+id/btn_submit"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_row="7"
+android:layout_column="0"
+android:text="Hitung" />
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Hasil dalam Joule : " />
+<TextView
+android:id="@+id/hasil"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content" />
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Hasil dalam Kalori : " />
+<TextView
+android:id="@+id/hasil2"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content" />
+
+</LinearLayout>
