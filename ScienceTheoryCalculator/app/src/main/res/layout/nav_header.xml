@@ -10,7 +10,7 @@
     <ImageView
         android:layout_width="78dp"
         android:layout_height="85dp"
-        android:src="@drawable/bruh" />
+        android:src="@drawable/logokitabersama" />
 
     <TextView
         android:layout_width="216dp"
