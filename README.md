@@ -6,6 +6,8 @@ Dengan menggunakan Science Theory Calculator, Pengguna tidak diharuskan lagi unt
 
 Science Theory Calculator juga mudah dipelajari dan digunakan serta mudah diakses.
 
+Versi Terakhir: ScienceTheoryCalculator_1.2
+
 # Anggota Kelompok 2 kelas A:
 
 Joy Hans Christabel Sinaga - 2017051050
